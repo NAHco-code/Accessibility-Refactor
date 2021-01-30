@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* style header and nav links */
+/* header and nav links style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -61,7 +61,7 @@ p {
     background-position: center;
 }
 
-/* main content sections */
+/* main content section style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -96,7 +96,7 @@ p {
     font-size: 36px;
 }
 
-/* aside sections */
+/* aside section style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,7 +124,7 @@ p {
     max-width: 150px;
 }
 
-/* footer */
+/* footer style */
 .footer {
     padding: 30px;
     clear: both;

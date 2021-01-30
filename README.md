@@ -10,10 +10,9 @@ This page has been optimized for user accessibility relative to screen readers u
 
 ### Visuals
 
-![screenshot top](./assets/images/horiseon-refactor-top.png)
+![screenshot top](./assets/images/refactor-top.png)
 
-![screenshot bottom](./assets/images/horiseon-refactor-bottom.png)
-
+![screenshot bottom](./assets/images/refactor-bottom.png)
 
 ### Links
 
